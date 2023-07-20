@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vue-vite-py-data.iml" filepath="$PROJECT_DIR$/.idea/vue-vite-py-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue3-pinia-antd-data.iml" filepath="$PROJECT_DIR$/.idea/vue3-pinia-antd-data.iml" />
     </modules>
   </component>
 </project>
