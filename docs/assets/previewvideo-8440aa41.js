@@ -1,1 +1,0 @@
-import{U as t,a0 as r,a3 as o}from"./vue-4ec1f53c.js";const s={style:{width:"100%","text-align":"center"}},c=["src"],_={__name:"previewvideo",props:{url:{type:String}},setup(e){return(n,a)=>(t(),r("div",s,[o("video",{src:e.url,controls:"",height:"500",width:"800"},null,8,c)]))}};export{_};
