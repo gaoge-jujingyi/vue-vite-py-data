@@ -1,1 +1,0 @@
-import{aY as e}from"./index-71a5391b.js";const t=e("xiaoshuo",{state:()=>({title:"",frompath:"",content:"",aiaixiaoshuos_parameter:"",dpmwbs_parameter:"",beiwotvxiaoshuo_parameter:"",sisexiaoshuos_parameter:""}),getters:{},actions:{},persist:{enabled:!0,strategies:[{key:"xiaoshuo",storage:localStorage}]}});export{t as x};

@@ -1,1 +1,0 @@
-import{B as e,G as o}from"./index-71a5391b.js";const t=["src"],n={__name:"previewaudio",props:{src:{type:String}},setup(r){return(c,s)=>(e(),o("audio",{autoplay:"",src:r.src,controls:""},null,8,t))}};export{n as _};

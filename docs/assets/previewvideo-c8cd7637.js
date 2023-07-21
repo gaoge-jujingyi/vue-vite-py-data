@@ -1,1 +1,0 @@
-import{B as t,G as r,L as o}from"./index-71a5391b.js";const s={style:{width:"100%","text-align":"center"}},c=["src"],_={__name:"previewvideo",props:{url:{type:String}},setup(e){return(n,i)=>(t(),r("div",s,[o("video",{src:e.url,controls:"",height:"500",width:"800"},null,8,c)]))}};export{_};
